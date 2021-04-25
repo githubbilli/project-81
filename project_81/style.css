@@ -1,0 +1,11 @@
+body{
+    text-align:center;
+    background-color: blue;
+    background-size: cover;
+    background-position: center;
+  }
+  #my_canvas{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+  }
